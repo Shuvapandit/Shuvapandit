@@ -3,7 +3,7 @@
  <br/>
  
  <div align="center">
-  <img src ="https://drive.google.com/drive/u/0/folders/1sz1cGBL6wevwLCasnN0mGUINjiqO-Dnj" />
+  <img src ="https://drive.google.com/file/d/1A5A72seZYtUPhVxxTUtpWVRWNIn4TeGb/view?usp=sharing" />
   
 </div>
 
