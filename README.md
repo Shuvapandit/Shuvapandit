@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="" height="290px" align="right" />
+<img  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="290px" align="right" />
 
 
 - 🌱 I’m currently learning `MERN Stack`
