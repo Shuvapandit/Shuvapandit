@@ -8,6 +8,8 @@
 
 ## 👨🏻‍💻 About Me:
 
+<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBnFRpE8WpeXMRdiu4k6_4d9QU-twrm_gSzQ1mPA235TSIWlJ8ukRxBY0hyEuJqTzvuk&usqp=CAU" height="290px" align="right" />
+
 
 - 🌱 I’m currently learning `MERN Stack`
 
