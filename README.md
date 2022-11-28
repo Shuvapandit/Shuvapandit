@@ -1,4 +1,4 @@
-<h1 align="center">Hello ✋ I'm Shuva chakraborty</h1>
+<h1 align="center">Hello 🖐 I'm Shuva chakraborty</h1>
 
 
 
