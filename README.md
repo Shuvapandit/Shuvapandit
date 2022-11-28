@@ -17,7 +17,7 @@
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-  :e-mail: &emsp;How to reach me: chakrabortyshuva216@gmail.com.<br/>
+ - :e-mail: &emsp;How to reach me: chakrabortyshuva216@gmail.com.<br/>
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
