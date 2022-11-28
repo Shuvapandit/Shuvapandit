@@ -59,12 +59,6 @@
 ## 📊 My GitHub Data:
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuvapandit&show_icons=true)  
 
